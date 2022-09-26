@@ -3,7 +3,7 @@ theme: default
 highlighter: shiki
 #> Slide info
 # ganti N jadi nomor pertemuan
-title: Materi N - PBO
+title: Kuis 01 - PBO
 titleTemplate: '%s'
 info: |
   # Kuis 01 - PBO
